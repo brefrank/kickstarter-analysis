@@ -4,7 +4,8 @@
 
 Using data from our Kickstarter Challenge spreadsheet, a visualization of theater campaign outcomes based on launch dates and play funding goals has been created. The goal of this project was to gain a better understanding of how other plays compared to Louise’s play 'Fever'.
 
-[Kickstarter_Challenge.xlsx](https://github.com/brefrank/kickstarter-analysis/files/7157197/Kickstarter_Challenge.xlsx)
+[Kickstarter_Challenge_Copy.xlsx](https://github.com/brefrank/kickstarter-analysis/files/7188612/Kickstarter_Challenge_Copy.xlsx)
+
 
 ### Analysis of Outcomes Based on Launch Date
 
